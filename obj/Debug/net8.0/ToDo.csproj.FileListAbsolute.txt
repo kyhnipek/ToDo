@@ -1,0 +1,14 @@
+/Users/kayhanipek/Documents/Projects/ToDo/bin/Debug/net8.0/ToDo
+/Users/kayhanipek/Documents/Projects/ToDo/bin/Debug/net8.0/ToDo.deps.json
+/Users/kayhanipek/Documents/Projects/ToDo/bin/Debug/net8.0/ToDo.runtimeconfig.json
+/Users/kayhanipek/Documents/Projects/ToDo/bin/Debug/net8.0/ToDo.dll
+/Users/kayhanipek/Documents/Projects/ToDo/bin/Debug/net8.0/ToDo.pdb
+/Users/kayhanipek/Documents/Projects/ToDo/obj/Debug/net8.0/ToDo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kayhanipek/Documents/Projects/ToDo/obj/Debug/net8.0/ToDo.AssemblyInfoInputs.cache
+/Users/kayhanipek/Documents/Projects/ToDo/obj/Debug/net8.0/ToDo.AssemblyInfo.cs
+/Users/kayhanipek/Documents/Projects/ToDo/obj/Debug/net8.0/ToDo.csproj.CoreCompileInputs.cache
+/Users/kayhanipek/Documents/Projects/ToDo/obj/Debug/net8.0/ToDo.dll
+/Users/kayhanipek/Documents/Projects/ToDo/obj/Debug/net8.0/refint/ToDo.dll
+/Users/kayhanipek/Documents/Projects/ToDo/obj/Debug/net8.0/ToDo.pdb
+/Users/kayhanipek/Documents/Projects/ToDo/obj/Debug/net8.0/ToDo.genruntimeconfig.cache
+/Users/kayhanipek/Documents/Projects/ToDo/obj/Debug/net8.0/ref/ToDo.dll
